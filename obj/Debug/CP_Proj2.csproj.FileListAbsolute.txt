@@ -1,0 +1,8 @@
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\obj\Debug\CP_Proj2.csproj.AssemblyReference.cache
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\obj\Debug\CP_Proj2.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\obj\Debug\CP_Proj2.csproj.CoreCompileInputs.cache
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\bin\Debug\CP_Proj2.exe.config
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\bin\Debug\CP_Proj2.exe
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\bin\Debug\CP_Proj2.pdb
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\obj\Debug\CP_Proj2.exe
+D:\Documents\Fanshawe\Design Patterns\Project 2\CP_Proj2\CP_Proj2\obj\Debug\CP_Proj2.pdb
